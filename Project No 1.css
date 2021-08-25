@@ -1,0 +1,176 @@
+* {
+margin: 0px;
+padding: 0px;
+
+}
+
+body {
+background-color: #EEE;
+font-family: 'roboto' , 'sans-serif';
+}
+
+.container {
+background-color: burlywood;
+max-width: 1000px;
+background-color: hotpink;
+margin: 0 auto;
+padding: 20px;
+
+}
+
+header {
+
+}
+
+.bidyut-image {
+width: 100px;
+height: 120px;
+border:3px solid white ;
+border-radius:50% ;
+float: left;
+}
+
+.header-bio {
+float: left;
+padding: 30px;
+
+}
+h1,h2,h3,h4 {
+ color:blueviolet;
+
+
+
+}
+
+.header-contact {
+float: right;
+padding:30px ;
+list-style-type: none;
+}
+.header-contact a {
+text-decoration: none;
+color:indigo;
+
+}
+
+.header-contact a:hover {
+
+background-color: chartreuse;
+cursor: pointer;
+
+}
+
+.clear-div {
+clear: both;
+}
+
+hr {
+    width: 100%;
+border: 3px solid black;
+padding: 30px auto;
+border-bottom: none;
+}
+/*--------------------
+Personal section start
+--------------------*/
+#personal-section {
+
+
+}
+
+.content {
+
+    margin-bottom: 30px;
+}
+
+.left-div {
+
+width: 30%;
+float: left;
+
+}
+
+.right-div {
+ width: 70%;
+float: left;
+
+}
+
+
+.common-hr {
+ width: 100%;
+border: 1px solid black;
+border-bottom: none;
+margin: 20px auto;
+
+}
+
+/*-------------
+working experience
+-----------*/
+
+#working-experience {
+
+
+}
+
+.right-div {
+
+    
+}
+
+/*References---*/
+
+.sub-left {
+    width: 50%;
+float: left;
+
+}
+
+.sub-right {
+    width: 50%;
+float: left;
+
+}
+
+
+/*-------------
+footer srart
+-----------*/
+
+.bottom-container {
+background-color: greenyellow;
+text-align: center;
+padding: 10px;
+
+}
+
+
+
+
+.bottom-container a {
+color: red;
+    text-decoration: none;
+    margin: 60px;
+}
+
+.bottom-container a:hover {
+ color: darkviolet;
+ 
+
+}
+.bottom-container p {
+color: blue;
+font-size: 20px;
+
+}
+
+
+
+
+
+
+
+
+
+
